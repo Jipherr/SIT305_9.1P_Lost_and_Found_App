@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">9.1 Lost and Found App</string>
+    <string-array name="category_array_create">
+        <item>Electronics</item>
+        <item>Pets</item>
+        <item>Wallets</item>
+        <item>Keys</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="category_array_filter">
+        <item>All</item>
+        <item>Electronics</item>
+        <item>Pets</item>
+        <item>Wallets</item>
+        <item>Keys</item>
+        <item>Other</item>
+    </string-array>
+</resources>
